@@ -9,6 +9,7 @@ import typeof ButtonGroupType from "./ButtonGroup";
 import typeof CheckboxType from "./Checkbox";
 import typeof CountryFlagType from "./CountryFlag";
 import typeof CarrierLogoType from "./CarrierLogo";
+import typeof DestinationCardType from "./DestinationCard";
 import typeof HeadingType from "./Heading";
 import typeof InputFieldType from "./InputField";
 import typeof InputGroupType from "./InputGroup";
@@ -65,6 +66,7 @@ declare export var ButtonGroup: ButtonGroupType;
 declare export var CarrierLogo: CarrierLogoType;
 declare export var Checkbox: CheckboxType;
 declare export var CountryFlag: CountryFlagType;
+declare export var DestinationCard: DestinationCardType;
 
 declare export var List: ListType;
 declare export var ListItem: ListItemType;
