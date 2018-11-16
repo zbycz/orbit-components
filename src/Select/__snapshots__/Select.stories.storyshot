@@ -151,7 +151,7 @@ exports[`Storyshots Select Default 1`] = `
                     className="Select__SelectSuffix-sc-6agypz-4 dtnAjS"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -622,7 +622,7 @@ exports[`Storyshots Select Playground 1`] = `
                     className="Select__SelectSuffix-sc-6agypz-4 dtnAjS"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -1366,7 +1366,7 @@ exports[`Storyshots Select RTL 1`] = `
                     className="Select__SelectSuffix-sc-6agypz-4 gXjPeR"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -1924,7 +1924,7 @@ exports[`Storyshots Select With CountryFlag prefix 1`] = `
                     className="Select__SelectSuffix-sc-6agypz-4 dtnAjS"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -2457,7 +2457,7 @@ exports[`Storyshots Select With error message 1`] = `
                     className="Select__SelectSuffix-sc-6agypz-4 dtnAjS"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -2997,7 +2997,7 @@ exports[`Storyshots Select With help message 1`] = `
                     className="Select__SelectSuffix-sc-6agypz-4 dtnAjS"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -3542,7 +3542,7 @@ exports[`Storyshots Select With placeholder 1`] = `
                     className="Select__SelectSuffix-sc-6agypz-4 dtnAjS"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -4054,7 +4054,7 @@ exports[`Storyshots Select With prefix 1`] = `
                     className="Select__SelectPrefix-sc-6agypz-3 gQduFD"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 jAabTa"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 gsgdYz"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -4089,7 +4089,7 @@ exports[`Storyshots Select With prefix 1`] = `
                     className="Select__SelectSuffix-sc-6agypz-4 dtnAjS"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -4622,7 +4622,7 @@ exports[`Storyshots Select With small size 1`] = `
                     className="Select__SelectSuffix-sc-6agypz-4 jEDQBY"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >

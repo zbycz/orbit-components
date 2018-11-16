@@ -139,7 +139,7 @@ exports[`Storyshots Tile Default 1`] = `
                     className="TileHeader__StyledIconRight-sc-1k1u3lr-4 gXAQYb"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -412,7 +412,7 @@ exports[`Storyshots Tile Expandable 1`] = `
                       className="TileHeader__StyledTileIcon-sc-1k1u3lr-2 cyphAm"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -436,7 +436,7 @@ exports[`Storyshots Tile Expandable 1`] = `
                     className="TileHeader__StyledIconRight-sc-1k1u3lr-4 gXAQYb"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -836,7 +836,7 @@ exports[`Storyshots Tile Expandable with custom description 1`] = `
                     className="TileHeader__StyledIconRight-sc-1k1u3lr-4 gXAQYb"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -1173,7 +1173,7 @@ exports[`Storyshots Tile Playground 1`] = `
                       className="TileHeader__StyledTileIcon-sc-1k1u3lr-2 cyphAm"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -1197,7 +1197,7 @@ exports[`Storyshots Tile Playground 1`] = `
                     className="TileHeader__StyledIconRight-sc-1k1u3lr-4 gXAQYb"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -1639,7 +1639,7 @@ exports[`Storyshots Tile RTL 1`] = `
                     className="TileHeader__StyledIconRight-sc-1k1u3lr-4 sqokT"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >

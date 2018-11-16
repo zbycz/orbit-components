@@ -127,7 +127,7 @@ exports[`Storyshots ListChoice Default 1`] = `
                   className="ListChoice__StyledListChoiceIcon-sc-1y53xes-0 btWrZR"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -472,7 +472,7 @@ exports[`Storyshots ListChoice Multiple choices 1`] = `
                   className="ListChoice__StyledListChoiceIcon-sc-1y53xes-0 btWrZR"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -509,7 +509,7 @@ exports[`Storyshots ListChoice Multiple choices 1`] = `
                     className="Checkbox__IconContainer-sc-1x6twh3-0 gpteLp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -528,7 +528,7 @@ exports[`Storyshots ListChoice Multiple choices 1`] = `
                   className="ListChoice__StyledListChoiceIcon-sc-1y53xes-0 btWrZR"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -565,7 +565,7 @@ exports[`Storyshots ListChoice Multiple choices 1`] = `
                     className="Checkbox__IconContainer-sc-1x6twh3-0 gpteLp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -584,7 +584,7 @@ exports[`Storyshots ListChoice Multiple choices 1`] = `
                   className="ListChoice__StyledListChoiceIcon-sc-1y53xes-0 btWrZR"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -621,7 +621,7 @@ exports[`Storyshots ListChoice Multiple choices 1`] = `
                     className="Checkbox__IconContainer-sc-1x6twh3-0 gpteLp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -1347,7 +1347,7 @@ exports[`Storyshots ListChoice Playground 1`] = `
                   className="ListChoice__StyledListChoiceIcon-sc-1y53xes-0 btWrZR"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -1384,7 +1384,7 @@ exports[`Storyshots ListChoice Playground 1`] = `
                     className="Checkbox__IconContainer-sc-1x6twh3-0 gpteLp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -1786,7 +1786,7 @@ exports[`Storyshots ListChoice RTL 1`] = `
                   className="ListChoice__StyledListChoiceIcon-sc-1y53xes-0 kIlQgM"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -1823,7 +1823,7 @@ exports[`Storyshots ListChoice RTL 1`] = `
                     className="Checkbox__IconContainer-sc-1x6twh3-0 gpteLp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -1842,7 +1842,7 @@ exports[`Storyshots ListChoice RTL 1`] = `
                   className="ListChoice__StyledListChoiceIcon-sc-1y53xes-0 kIlQgM"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -1879,7 +1879,7 @@ exports[`Storyshots ListChoice RTL 1`] = `
                     className="Checkbox__IconContainer-sc-1x6twh3-0 gpteLp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -1898,7 +1898,7 @@ exports[`Storyshots ListChoice RTL 1`] = `
                   className="ListChoice__StyledListChoiceIcon-sc-1y53xes-0 kIlQgM"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -1935,7 +1935,7 @@ exports[`Storyshots ListChoice RTL 1`] = `
                     className="Checkbox__IconContainer-sc-1x6twh3-0 gpteLp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >

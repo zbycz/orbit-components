@@ -133,7 +133,7 @@ exports[`Storyshots CheckBox Default 1`] = `
                   className="Checkbox__IconContainer-sc-1x6twh3-0 gpteLp"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -443,7 +443,7 @@ exports[`Storyshots CheckBox Playground 1`] = `
                   className="Checkbox__IconContainer-sc-1x6twh3-0 gpteLp"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -907,7 +907,7 @@ exports[`Storyshots CheckBox RTL 1`] = `
                   className="Checkbox__IconContainer-sc-1x6twh3-0 gpteLp"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -1297,7 +1297,7 @@ exports[`Storyshots CheckBox With TextLink in label 1`] = `
                   className="Checkbox__IconContainer-sc-1x6twh3-0 gpteLp"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -1636,7 +1636,7 @@ exports[`Storyshots CheckBox With help 1`] = `
                   className="Checkbox__IconContainer-sc-1x6twh3-0 gpteLp"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >

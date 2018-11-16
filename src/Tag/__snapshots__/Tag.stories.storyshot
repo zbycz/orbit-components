@@ -128,7 +128,7 @@ exports[`Storyshots Tag Default 1`] = `
                   className="Tag__IconContainer-e565ij-1 cwJpHL"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -437,7 +437,7 @@ exports[`Storyshots Tag Playground 1`] = `
                   className="Tag__IconContainer-e565ij-1 cwJpHL"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -452,7 +452,7 @@ exports[`Storyshots Tag Playground 1`] = `
                   onClick={[Function]}
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 jWhQVI"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 iJQDHv"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -863,7 +863,7 @@ exports[`Storyshots Tag RTL 1`] = `
                   className="Tag__IconContainer-e565ij-1 FDiux"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -878,7 +878,7 @@ exports[`Storyshots Tag RTL 1`] = `
                   onClick={[Function]}
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 jWhQVI"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 iJQDHv"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >

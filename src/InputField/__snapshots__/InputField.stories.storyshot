@@ -2436,7 +2436,7 @@ exports[`Storyshots InputField Playground 1`] = `
                     className="InputField__Prefix-sc-4opay-4 cnqfau"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -2472,7 +2472,7 @@ exports[`Storyshots InputField Playground 1`] = `
                         className="ButtonLink__IconContainer-sc-14jv5cl-0 bCwZJN"
                       >
                         <svg
-                          className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                          className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                           preserveAspectRatio="xMidYMid meet"
                           viewBox="0 0 24 24"
                         >
@@ -3363,7 +3363,7 @@ exports[`Storyshots InputField RTL 1`] = `
                         className="ButtonLink__IconContainer-sc-14jv5cl-0 pfllg"
                       >
                         <svg
-                          className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                          className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                           preserveAspectRatio="xMidYMid meet"
                           viewBox="0 0 24 24"
                         >
@@ -4501,7 +4501,7 @@ exports[`Storyshots InputField With ButtonLink suffix 1`] = `
                         className="ButtonLink__IconContainer-sc-14jv5cl-0 pfllg"
                       >
                         <svg
-                          className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                          className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                           preserveAspectRatio="xMidYMid meet"
                           viewBox="0 0 24 24"
                         >
@@ -4877,7 +4877,7 @@ exports[`Storyshots InputField With Icon prefix 1`] = `
                     className="InputField__Prefix-sc-4opay-4 iNucwo"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >

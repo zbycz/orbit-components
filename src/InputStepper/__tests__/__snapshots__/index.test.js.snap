@@ -11536,6 +11536,8 @@ exports[`InputStepper with help, prefix and suffix should match snapshot 1`] = `
                                                                           ";vertical-align:middle;fill:currentColor;color:",
                                                                           [Function],
                                                                           ";",
+                                                                          [Function],
+                                                                          ";",
                                                                         ],
                                                                       },
                                                                       "defaultProps": Object {
@@ -20804,6 +20806,8 @@ exports[`InputStepper with help, prefix and suffix should match snapshot 1`] = `
                                                                           ";height:",
                                                                           [Function],
                                                                           ";vertical-align:middle;fill:currentColor;color:",
+                                                                          [Function],
+                                                                          ";",
                                                                           [Function],
                                                                           ";",
                                                                         ],

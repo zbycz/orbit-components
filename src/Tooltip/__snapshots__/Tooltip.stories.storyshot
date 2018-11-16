@@ -128,7 +128,7 @@ exports[`Storyshots Tooltip Playground 1`] = `
                 onMouseLeave={[Function]}
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -553,7 +553,7 @@ exports[`Storyshots Tooltip Preferred position 1`] = `
                   onMouseLeave={[Function]}
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -1378,7 +1378,7 @@ exports[`Storyshots Tooltip Tooltip on inline element 1`] = `
                   className="Alert__IconContainer-svgppc-1 jOCXyK"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -2195,7 +2195,7 @@ exports[`Storyshots Tooltip With image inside 1`] = `
                 onMouseLeave={[Function]}
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -2243,7 +2243,7 @@ exports[`Storyshots Tooltip With image inside 1`] = `
                             className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                           >
                             <svg
-                              className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                              className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                               preserveAspectRatio="xMidYMid meet"
                               viewBox="0 0 24 24"
                             >
@@ -2261,7 +2261,7 @@ exports[`Storyshots Tooltip With image inside 1`] = `
                             className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                           >
                             <svg
-                              className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                              className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                               preserveAspectRatio="xMidYMid meet"
                               viewBox="0 0 24 24"
                             >

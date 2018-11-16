@@ -498,7 +498,7 @@ exports[`Storyshots Button Button as a link 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 TlYjN"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -945,7 +945,7 @@ exports[`Storyshots Button Button with icons 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 llwOhv"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -959,7 +959,7 @@ exports[`Storyshots Button Button with icons 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 kytKac"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -1294,7 +1294,7 @@ exports[`Storyshots Button Button with icons 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 kytKac"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -1700,7 +1700,7 @@ exports[`Storyshots Button Circled button 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 iENGaT"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -2321,7 +2321,7 @@ exports[`Storyshots Button Destructive buttons 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 bVVJSp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -2730,7 +2730,7 @@ exports[`Storyshots Button Playground 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 bVVJSp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -2744,7 +2744,7 @@ exports[`Storyshots Button Playground 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 kPWoj"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -3470,7 +3470,7 @@ exports[`Storyshots Button RTL 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 kPWoj"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -3834,7 +3834,7 @@ exports[`Storyshots Button Social buttons 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 bkcPiz"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -4092,7 +4092,7 @@ exports[`Storyshots Button Social buttons 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 cvyiB"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -4468,7 +4468,7 @@ exports[`Storyshots Button Status buttons 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 llwOhv"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -4745,7 +4745,7 @@ exports[`Storyshots Button Status buttons 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 llwOhv"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -5022,7 +5022,7 @@ exports[`Storyshots Button Status buttons 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 llwOhv"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -5299,7 +5299,7 @@ exports[`Storyshots Button Status buttons 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 llwOhv"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
