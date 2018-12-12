@@ -18,7 +18,7 @@ export type Size = "small" | "normal" | "large";
 
 export type Props = {|
   +children?: React$Node,
-  +component?: string | React$Node,
+  +component?: string | (() => React$Node),
   +href?: string,
   +onClick?: (e: SyntheticEvent<HTMLButtonElement>) => void | Promise<any>,
   +external?: boolean,
