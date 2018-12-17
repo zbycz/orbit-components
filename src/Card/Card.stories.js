@@ -29,6 +29,30 @@ setAddon(chaptersAddon);
 const getIcons = defaultIcon => select("Icon", Object.keys(Icons), defaultIcon);
 const getIcon = source => Icons[source];
 
+class DynamicContent extends React.Component {
+  state = {
+    contents: [],
+  };
+
+  push = () => {
+    this.setState({
+      contents: this.state.contents.concat(["Test"]),
+    });
+  };
+
+  render() {
+    return (
+      <div>
+        {this.state.contents.map(() => (
+          <div>Kokot</div>
+        ))}
+
+        <div onClick={this.push}>Add</div>
+      </div>
+    );
+  }
+}
+
 storiesOf("Card", module)
   .addDecorator(withKnobs)
   .addDecorator(
@@ -218,12 +242,7 @@ storiesOf("Card", module)
                     </CardSectionHeader>
                     <CardSectionContent>Hidden content</CardSectionContent>
                   </CardSection>
-                  <CardSection
-                    expandable
-                    initialExpanded={initialExpanded}
-                    onExpand={action("onExpand")}
-                    onClose={action("onClose")}
-                  >
+                  <CardSection expandable initialExpanded onExpand={action("onExpand")} onClose={action("onClose")}>
                     <CardSectionHeader
                       actions={
                         <div>
@@ -244,7 +263,9 @@ storiesOf("Card", module)
                         </div>
                       </Stack>
                     </CardSectionHeader>
-                    <CardSectionContent visible>By default visible content</CardSectionContent>
+                    <CardSectionContent>
+                      <DynamicContent />
+                    </CardSectionContent>
                   </CardSection>
                 </Card>
               ),
