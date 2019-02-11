@@ -1,6 +1,7 @@
 // @flow
 import * as React from "react";
 import styled from "styled-components";
+import { warning } from "@kiwicom/js";
 
 import defaultTokens from "../defaultTokens";
 import { baseURL, CODES } from "./consts";
@@ -18,8 +19,17 @@ StyledCountryFlag.defaultProps = {
   theme: defaultTokens,
 };
 
+export function getCountryProps(code: ?string, name: ?string): { code: string, name: string } {
+  const codeNormalized = !code ? "ANYWHERE" : code.toUpperCase();
+  warning(CODES[codeNormalized], `Country code not supported: ${JSON.stringify(code)}`);
+  const countryCode = CODES[codeNormalized] ? CODES[codeNormalized] : CODES.ANYWHERE;
+  const countryName = !name ? "Anywhere" : name;
+  return { code: countryCode, name: countryName };
+}
+
 const CountryFlag = (props: Props) => {
-  const { code = CODES.ANYWHERE, name = "Anywhere", dataTest } = props;
+  const { dataTest } = props;
+  const { code, name } = getCountryProps(props.code, props.name);
   return (
     <StyledCountryFlag
       key={code}
