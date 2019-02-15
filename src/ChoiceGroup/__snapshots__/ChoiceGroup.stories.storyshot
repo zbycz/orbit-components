@@ -128,7 +128,7 @@ exports[`Storyshots ChoiceGroup Default 1`] = `
                   What was the reason for your cancellation?
                 </h4>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 bRODnW"
+                  className="Stack__StyledStack-sc-1t576ow-0 hLHnVv"
                 >
                   <label
                     checked={false}
@@ -756,7 +756,7 @@ exports[`Storyshots ChoiceGroup Multiple 1`] = `
                   What was the reason for your cancellation?
                 </h4>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 bRODnW"
+                  className="Stack__StyledStack-sc-1t576ow-0 hLHnVv"
                 >
                   <label
                     className="Checkbox__Label-sc-1x6twh3-5 jCEmqK"
@@ -1397,7 +1397,7 @@ exports[`Storyshots ChoiceGroup Playground 1`] = `
                   What was the reason for your cancellation?
                 </h4>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 bRODnW"
+                  className="Stack__StyledStack-sc-1t576ow-0 hLHnVv"
                 >
                   <label
                     checked={false}

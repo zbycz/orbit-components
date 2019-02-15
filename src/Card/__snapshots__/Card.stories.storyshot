@@ -136,7 +136,7 @@ exports[`Storyshots Card Card with default expanded 1`] = `
                         className="CardSectionHeader__StyledCardSectionHeaderContent-sc-1gmw3sa-3 lcnsxe"
                       >
                         <div
-                          className="Stack__StyledStack-sc-1t576ow-0 hSLron"
+                          className="Stack__StyledStack-sc-1t576ow-0 guftAe"
                         >
                           <div>
                             <div
@@ -155,7 +155,7 @@ exports[`Storyshots Card Card with default expanded 1`] = `
                           </div>
                           <div>
                             <div
-                              className="Stack__StyledStack-sc-1t576ow-0 czFEn"
+                              className="Stack__StyledStack-sc-1t576ow-0 caedOT"
                             >
                               <p
                                 className="Text__StyledText-sc-19qtt4y-0 jgniMG"
@@ -217,7 +217,7 @@ exports[`Storyshots Card Card with default expanded 1`] = `
                         className="CardSectionHeader__StyledCardSectionHeaderContent-sc-1gmw3sa-3 lcnsxe"
                       >
                         <div
-                          className="Stack__StyledStack-sc-1t576ow-0 hSLron"
+                          className="Stack__StyledStack-sc-1t576ow-0 guftAe"
                         >
                           <div>
                             <div
@@ -236,7 +236,7 @@ exports[`Storyshots Card Card with default expanded 1`] = `
                           </div>
                           <div>
                             <div
-                              className="Stack__StyledStack-sc-1t576ow-0 czFEn"
+                              className="Stack__StyledStack-sc-1t576ow-0 caedOT"
                             >
                               <p
                                 className="Text__StyledText-sc-19qtt4y-0 jgniMG"

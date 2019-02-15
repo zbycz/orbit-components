@@ -1,10 +1,10 @@
 // @flow
 
 export const DEVICES = {
-  largeDesktop: 1400,
-  desktop: 1200,
-  tablet: 992,
-  largeMobile: 600,
+  largeDesktop: 1200,
+  desktop: 992,
+  tablet: 768,
+  largeMobile: 576,
   mediumMobile: 414,
   smallMobile: 0,
 };

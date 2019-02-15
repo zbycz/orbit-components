@@ -120,10 +120,10 @@ exports[`Storyshots Stack Components preview 1`] = `
               }
             >
               <div
-                className="Stack__StyledStack-sc-1t576ow-0 hGJyba"
+                className="Stack__StyledStack-sc-1t576ow-0 gyVGaB"
               >
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 czFEn"
+                  className="Stack__StyledStack-sc-1t576ow-0 caedOT"
                 >
                   <div
                     className="Alert__StyledAlert-svgppc-0 fhPsd"
@@ -200,7 +200,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </button>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 kQhpGH"
+                  className="Stack__StyledStack-sc-1t576ow-0 laubdF"
                 >
                   <button
                     className="Button__StyledButton-sc-1brqp3f-1 dIWTP"
@@ -222,7 +222,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </button>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 eqzQDG"
+                  className="Stack__StyledStack-sc-1t576ow-0 lbezBD"
                 >
                   <div
                     className="Badge__StyledBadge-sc-1y6i8f0-0 iQkwdQ"
@@ -236,7 +236,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </div>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 hupKvP"
+                  className="Stack__StyledStack-sc-1t576ow-0 eVcQWt"
                 >
                   <div
                     className="ButtonGroup__StyledButtonGroup-sc-82hrp5-0 kqOFSu"
@@ -292,7 +292,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </div>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 dMqaia"
+                  className="Stack__StyledStack-sc-1t576ow-0 etAmhr"
                 >
                   <div
                     className="ButtonGroup__StyledButtonGroup-sc-82hrp5-0 kqOFSu"
@@ -348,7 +348,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </div>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 czFEn"
+                  className="Stack__StyledStack-sc-1t576ow-0 caedOT"
                 >
                   <div
                     className="Card__StyledCard-ff0z2v-1 irRylt"
@@ -428,7 +428,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </div>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 hupKvP"
+                  className="Stack__StyledStack-sc-1t576ow-0 eVcQWt"
                 >
                   <div
                     className="Card__StyledCard-ff0z2v-1 irRylt"
@@ -578,7 +578,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </div>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 eqzQDG"
+                  className="Stack__StyledStack-sc-1t576ow-0 lbezBD"
                 >
                   <div
                     className="CarrierLogo__StyledCarrierLogo-d4doc9-1 imXoUt"
@@ -640,7 +640,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </div>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 fJMDdH"
+                  className="Stack__StyledStack-sc-1t576ow-0 dfyQRJ"
                 >
                   <label
                     className="Checkbox__Label-sc-1x6twh3-5 jCEmqK"
@@ -714,7 +714,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </label>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 hupKvP"
+                  className="Stack__StyledStack-sc-1t576ow-0 eVcQWt"
                 >
                   <label
                     className="Checkbox__Label-sc-1x6twh3-5 jCEmqK"
@@ -788,7 +788,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </label>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 fJMDdH"
+                  className="Stack__StyledStack-sc-1t576ow-0 dfyQRJ"
                 >
                   <div
                     className="ChoiceGroup__StyledChoiceGroup-njp29m-0 fglYeh"
@@ -799,7 +799,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                       What was the reason for your cancellation?
                     </h4>
                     <div
-                      className="Stack__StyledStack-sc-1t576ow-0 bRODnW"
+                      className="Stack__StyledStack-sc-1t576ow-0 hLHnVv"
                     >
                       <label
                         className="Checkbox__Label-sc-1x6twh3-5 jCEmqK"
@@ -914,7 +914,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                       What was the reason for your cancellation?
                     </h4>
                     <div
-                      className="Stack__StyledStack-sc-1t576ow-0 bRODnW"
+                      className="Stack__StyledStack-sc-1t576ow-0 hLHnVv"
                     >
                       <label
                         className="Checkbox__Label-sc-1x6twh3-5 jCEmqK"
@@ -1022,7 +1022,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </div>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 fJMDdH"
+                  className="Stack__StyledStack-sc-1t576ow-0 dfyQRJ"
                 >
                   <img
                     alt="Anywhere"
@@ -1040,7 +1040,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   />
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 hGJyba"
+                  className="Stack__StyledStack-sc-1t576ow-0 gyVGaB"
                 >
                   <img
                     alt="Anywhere"
@@ -1058,7 +1058,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   />
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 hupKvP"
+                  className="Stack__StyledStack-sc-1t576ow-0 eVcQWt"
                 >
                   <h1
                     className="Heading__StyledHeading-sc-1b8cso5-0 kCqDso"
@@ -1072,7 +1072,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </h1>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 cpMaPD"
+                  className="Stack__StyledStack-sc-1t576ow-0 gotIxM"
                 >
                   <h1
                     className="Heading__StyledHeading-sc-1b8cso5-0 kCqDso"
@@ -1086,7 +1086,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </h1>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 czFEn"
+                  className="Stack__StyledStack-sc-1t576ow-0 caedOT"
                 >
                   <svg
                     className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
@@ -1104,7 +1104,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </p>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 ktahqs"
+                  className="Stack__StyledStack-sc-1t576ow-0 IBgFK"
                 >
                   <img
                     alt="Accommodation"
@@ -1120,7 +1120,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </p>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 czFEn"
+                  className="Stack__StyledStack-sc-1t576ow-0 caedOT"
                 >
                   <img
                     alt="Accommodation"
@@ -1136,7 +1136,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </p>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 fJMDdH"
+                  className="Stack__StyledStack-sc-1t576ow-0 dfyQRJ"
                 >
                   <div
                     className="InputStepper__StyledInputStepper-sc-1kqzp6i-1 fNaGqE"
@@ -1239,7 +1239,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </label>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 hGJyba"
+                  className="Stack__StyledStack-sc-1t576ow-0 gyVGaB"
                 >
                   <div
                     className="InputStepper__StyledInputStepper-sc-1kqzp6i-1 fNaGqE"
@@ -1342,7 +1342,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </label>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 fJMDdH"
+                  className="Stack__StyledStack-sc-1t576ow-0 dfyQRJ"
                 >
                   <label
                     className="InputField__Field-sc-4opay-0 kCAFyx"
@@ -1506,7 +1506,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </div>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 hGJyba"
+                  className="Stack__StyledStack-sc-1t576ow-0 gyVGaB"
                 >
                   <label
                     className="InputField__Field-sc-4opay-0 kCAFyx"
@@ -1685,7 +1685,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </label>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 czFEn"
+                  className="Stack__StyledStack-sc-1t576ow-0 caedOT"
                 >
                   <h1
                     className="Heading__StyledHeading-sc-1b8cso5-0 kyjUks"
@@ -1700,7 +1700,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   />
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 ktahqs"
+                  className="Stack__StyledStack-sc-1t576ow-0 IBgFK"
                 >
                   <div
                     className="Table__StyledTableOuter-sc-156ovmd-0 eHmADd"
@@ -1938,7 +1938,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </div>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 fJMDdH"
+                  className="Stack__StyledStack-sc-1t576ow-0 dfyQRJ"
                 >
                   <div
                     className="Table__StyledTableOuter-sc-156ovmd-0 eHmADd"
@@ -2410,7 +2410,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </div>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 fJMDdH"
+                  className="Stack__StyledStack-sc-1t576ow-0 dfyQRJ"
                 >
                   <a
                     className="Tile__StyledTile-sc-15i01z6-0 cVFIOL"
@@ -2514,7 +2514,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </a>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 ktahqs"
+                  className="Stack__StyledStack-sc-1t576ow-0 IBgFK"
                 >
                   <div
                     className="Tile__StyledTile-sc-15i01z6-0 cVFIOL"
@@ -2630,7 +2630,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </div>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 czFEn"
+                  className="Stack__StyledStack-sc-1t576ow-0 caedOT"
                 >
                   <h1
                     className="Heading__StyledHeading-sc-1b8cso5-0 kCqDso"
@@ -2680,7 +2680,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </div>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 czFEn"
+                  className="Stack__StyledStack-sc-1t576ow-0 caedOT"
                 >
                   <p
                     className="Text__StyledText-sc-19qtt4y-0 dJNjRc"
@@ -2703,7 +2703,7 @@ exports[`Storyshots Stack Components preview 1`] = `
                   </p>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 fJMDdH"
+                  className="Stack__StyledStack-sc-1t576ow-0 dfyQRJ"
                 >
                   <div
                     className="TripSector__StyledTripSector-v14xkf-0 gzaCdT"
@@ -30219,7 +30219,7 @@ exports[`Storyshots Stack Default 1`] = `
               }
             >
               <div
-                className="Stack__StyledStack-sc-1t576ow-0 ktahqs"
+                className="Stack__StyledStack-sc-1t576ow-0 IBgFK"
               >
                 <button
                   className="Button__StyledButton-sc-1brqp3f-1 hCBYWk"
@@ -30695,7 +30695,7 @@ exports[`Storyshots Stack Desktop properties 1`] = `
               }
             >
               <div
-                className="Stack__StyledStack-sc-1t576ow-0 eKeIcA"
+                className="Stack__StyledStack-sc-1t576ow-0 iLUNZd"
               >
                 <label
                   className="InputField__Field-sc-4opay-0 kCAFyx"
@@ -31255,7 +31255,7 @@ exports[`Storyshots Stack Mobile properties 1`] = `
               }
             >
               <div
-                className="Stack__StyledStack-sc-1t576ow-0 eCmEDd"
+                className="Stack__StyledStack-sc-1t576ow-0 ehKRqr"
               >
                 <button
                   className="Button__StyledButton-sc-1brqp3f-1 hCBYWk"
@@ -32006,10 +32006,10 @@ exports[`Storyshots Stack Nested example 1`] = `
               }
             >
               <div
-                className="Stack__StyledStack-sc-1t576ow-0 kGBGAa"
+                className="Stack__StyledStack-sc-1t576ow-0 hlpvWO"
               >
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 bMtpWR"
+                  className="Stack__StyledStack-sc-1t576ow-0 geKNMW"
                 >
                   <p
                     className="Text__StyledText-sc-19qtt4y-0 kUbIBP"
@@ -32027,7 +32027,7 @@ exports[`Storyshots Stack Nested example 1`] = `
                   </svg>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 gtNyBk"
+                  className="Stack__StyledStack-sc-1t576ow-0 fenvQH"
                 >
                   <label
                     className="InputField__Field-sc-4opay-0 kCAFyx"
@@ -33169,7 +33169,7 @@ exports[`Storyshots Stack Playground 1`] = `
               }
             >
               <div
-                className="Stack__StyledStack-sc-1t576ow-0 dLZgdE"
+                className="Stack__StyledStack-sc-1t576ow-0 bqPshM"
                 data-test="test"
               >
                 <label
@@ -34065,10 +34065,10 @@ exports[`Storyshots Stack RTL 1`] = `
               }
             >
               <div
-                className="Stack__StyledStack-sc-1t576ow-0 kGBGAa"
+                className="Stack__StyledStack-sc-1t576ow-0 hlpvWO"
               >
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 dSeYVv"
+                  className="Stack__StyledStack-sc-1t576ow-0 foHVdt"
                 >
                   <p
                     className="Text__StyledText-sc-19qtt4y-0 kGMOFq"
@@ -34086,7 +34086,7 @@ exports[`Storyshots Stack RTL 1`] = `
                   </svg>
                 </div>
                 <div
-                  className="Stack__StyledStack-sc-1t576ow-0 ffTZDt"
+                  className="Stack__StyledStack-sc-1t576ow-0 eHlPjv"
                 >
                   <label
                     className="InputField__Field-sc-4opay-0 kCAFyx"

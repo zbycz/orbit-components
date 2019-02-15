@@ -143,22 +143,22 @@ exports[`Storyshots Tooltip Playground 1`] = `
                 role="tooltip"
               >
                 <div
-                  className="Tooltip__StyledTooltipOverlay-sc-1l15bi-5 fKSIZk"
+                  className="Tooltip__StyledTooltipOverlay-sc-1l15bi-5 kXpmJA"
                   onClick={[Function]}
                 />
                 <div
-                  className="Tooltip__StyledTooltipWrapper-sc-1l15bi-2 dlEKwd"
+                  className="Tooltip__StyledTooltipWrapper-sc-1l15bi-2 cgJuxl"
                   onMouseEnter={[Function]}
                   onMouseLeave={[Function]}
                   size="small"
                 >
                   <div
-                    className="Tooltip__StyledTooltipContent-sc-1l15bi-3 iFYCeO"
+                    className="Tooltip__StyledTooltipContent-sc-1l15bi-3 sHYta"
                   >
                     Write your text here.
                   </div>
                   <div
-                    className="Tooltip__StyledTooltipClose-sc-1l15bi-4 blyKzT"
+                    className="Tooltip__StyledTooltipClose-sc-1l15bi-4 cseIxZ"
                   >
                     <button
                       className="Button__StyledButton-sc-1brqp3f-1 fHyRJq"
@@ -542,7 +542,7 @@ exports[`Storyshots Tooltip Preferred position 1`] = `
               }
             >
               <div
-                className="Stack__StyledStack-sc-1t576ow-0 dMqaia"
+                className="Stack__StyledStack-sc-1t576ow-0 etAmhr"
               >
                 <span
                   className="Tooltip__StyledTooltipChildren-sc-1l15bi-0 kxBiuU"
@@ -567,22 +567,22 @@ exports[`Storyshots Tooltip Preferred position 1`] = `
                   role="tooltip"
                 >
                   <div
-                    className="Tooltip__StyledTooltipOverlay-sc-1l15bi-5 fKSIZk"
+                    className="Tooltip__StyledTooltipOverlay-sc-1l15bi-5 kXpmJA"
                     onClick={[Function]}
                   />
                   <div
-                    className="Tooltip__StyledTooltipWrapper-sc-1l15bi-2 kxnTrI"
+                    className="Tooltip__StyledTooltipWrapper-sc-1l15bi-2 jEeULS"
                     onMouseEnter={[Function]}
                     onMouseLeave={[Function]}
                     size="medium"
                   >
                     <div
-                      className="Tooltip__StyledTooltipContent-sc-1l15bi-3 iFYCeO"
+                      className="Tooltip__StyledTooltipContent-sc-1l15bi-3 sHYta"
                     >
                       Write your text here.
                     </div>
                     <div
-                      className="Tooltip__StyledTooltipClose-sc-1l15bi-4 blyKzT"
+                      className="Tooltip__StyledTooltipClose-sc-1l15bi-4 cseIxZ"
                     >
                       <button
                         className="Button__StyledButton-sc-1brqp3f-1 fHyRJq"
@@ -1026,22 +1026,22 @@ exports[`Storyshots Tooltip Tooltip on block element 1`] = `
                 role="tooltip"
               >
                 <div
-                  className="Tooltip__StyledTooltipOverlay-sc-1l15bi-5 fKSIZk"
+                  className="Tooltip__StyledTooltipOverlay-sc-1l15bi-5 kXpmJA"
                   onClick={[Function]}
                 />
                 <div
-                  className="Tooltip__StyledTooltipWrapper-sc-1l15bi-2 dlEKwd"
+                  className="Tooltip__StyledTooltipWrapper-sc-1l15bi-2 cgJuxl"
                   onMouseEnter={[Function]}
                   onMouseLeave={[Function]}
                   size="small"
                 >
                   <div
-                    className="Tooltip__StyledTooltipContent-sc-1l15bi-3 iFYCeO"
+                    className="Tooltip__StyledTooltipContent-sc-1l15bi-3 sHYta"
                   >
                     Write your text here. If it’s longer than three lines though, consider format your content in some more structured way.
                   </div>
                   <div
-                    className="Tooltip__StyledTooltipClose-sc-1l15bi-4 blyKzT"
+                    className="Tooltip__StyledTooltipClose-sc-1l15bi-4 cseIxZ"
                   >
                     <button
                       className="Button__StyledButton-sc-1brqp3f-1 fHyRJq"
@@ -1419,22 +1419,22 @@ exports[`Storyshots Tooltip Tooltip on inline element 1`] = `
                       role="tooltip"
                     >
                       <div
-                        className="Tooltip__StyledTooltipOverlay-sc-1l15bi-5 fKSIZk"
+                        className="Tooltip__StyledTooltipOverlay-sc-1l15bi-5 kXpmJA"
                         onClick={[Function]}
                       />
                       <div
-                        className="Tooltip__StyledTooltipWrapper-sc-1l15bi-2 dlEKwd"
+                        className="Tooltip__StyledTooltipWrapper-sc-1l15bi-2 cgJuxl"
                         onMouseEnter={[Function]}
                         onMouseLeave={[Function]}
                         size="small"
                       >
                         <div
-                          className="Tooltip__StyledTooltipContent-sc-1l15bi-3 iFYCeO"
+                          className="Tooltip__StyledTooltipContent-sc-1l15bi-3 sHYta"
                         >
                           Write your text here.
                         </div>
                         <div
-                          className="Tooltip__StyledTooltipClose-sc-1l15bi-4 blyKzT"
+                          className="Tooltip__StyledTooltipClose-sc-1l15bi-4 cseIxZ"
                         >
                           <button
                             className="Button__StyledButton-sc-1brqp3f-1 fHyRJq"
@@ -1473,22 +1473,22 @@ exports[`Storyshots Tooltip Tooltip on inline element 1`] = `
                       role="tooltip"
                     >
                       <div
-                        className="Tooltip__StyledTooltipOverlay-sc-1l15bi-5 fKSIZk"
+                        className="Tooltip__StyledTooltipOverlay-sc-1l15bi-5 kXpmJA"
                         onClick={[Function]}
                       />
                       <div
-                        className="Tooltip__StyledTooltipWrapper-sc-1l15bi-2 dlEKwd"
+                        className="Tooltip__StyledTooltipWrapper-sc-1l15bi-2 cgJuxl"
                         onMouseEnter={[Function]}
                         onMouseLeave={[Function]}
                         size="small"
                       >
                         <div
-                          className="Tooltip__StyledTooltipContent-sc-1l15bi-3 iFYCeO"
+                          className="Tooltip__StyledTooltipContent-sc-1l15bi-3 sHYta"
                         >
                           Write your text here.
                         </div>
                         <div
-                          className="Tooltip__StyledTooltipClose-sc-1l15bi-4 blyKzT"
+                          className="Tooltip__StyledTooltipClose-sc-1l15bi-4 cseIxZ"
                         >
                           <button
                             className="Button__StyledButton-sc-1brqp3f-1 fHyRJq"
@@ -2209,20 +2209,20 @@ exports[`Storyshots Tooltip With image inside 1`] = `
                 role="tooltip"
               >
                 <div
-                  className="Tooltip__StyledTooltipOverlay-sc-1l15bi-5 fKSIZk"
+                  className="Tooltip__StyledTooltipOverlay-sc-1l15bi-5 kXpmJA"
                   onClick={[Function]}
                 />
                 <div
-                  className="Tooltip__StyledTooltipWrapper-sc-1l15bi-2 kxnTrI"
+                  className="Tooltip__StyledTooltipWrapper-sc-1l15bi-2 jEeULS"
                   onMouseEnter={[Function]}
                   onMouseLeave={[Function]}
                   size="medium"
                 >
                   <div
-                    className="Tooltip__StyledTooltipContent-sc-1l15bi-3 iFYCeO"
+                    className="Tooltip__StyledTooltipContent-sc-1l15bi-3 sHYta"
                   >
                     <div
-                      className="Stack__StyledStack-sc-1t576ow-0 ktahqs"
+                      className="Stack__StyledStack-sc-1t576ow-0 IBgFK"
                     >
                       <img
                         alt="Preview of card help in Tooltip component"
@@ -2276,7 +2276,7 @@ exports[`Storyshots Tooltip With image inside 1`] = `
                     </div>
                   </div>
                   <div
-                    className="Tooltip__StyledTooltipClose-sc-1l15bi-4 blyKzT"
+                    className="Tooltip__StyledTooltipClose-sc-1l15bi-4 cseIxZ"
                   >
                     <button
                       className="Button__StyledButton-sc-1brqp3f-1 fHyRJq"

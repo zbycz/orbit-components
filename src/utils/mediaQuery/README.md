@@ -23,10 +23,10 @@ You can use these media queries in your project:
 | Name          | Applies from width    |
 | :------------ | :-------------------- |
 | mediumMobile  | `414px`               |
-| largeMobile   | `600px`               |
-| tablet        | `992px`               |
-| desktop       | `1200px`              |
-| largeDesktop  | `1400px`              |
+| largeMobile   | `576px`               |
+| tablet        | `768px`               |
+| desktop       | `992px`               |
+| largeDesktop  | `1200px`              |
 
 ## Breakpoints for testing purposes
 
