@@ -542,7 +542,7 @@ exports[`Storyshots Tooltip Preferred position 1`] = `
               }
             >
               <div
-                className="Stack__StyledStack-sc-1t576ow-0 dMqaia"
+                className="Stack__StyledStack-sc-1t576ow-0 buYIWu"
               >
                 <span
                   className="Tooltip__StyledTooltipChildren-sc-1l15bi-0 kxBiuU"
@@ -2222,7 +2222,7 @@ exports[`Storyshots Tooltip With image inside 1`] = `
                     className="Tooltip__StyledTooltipContent-sc-1l15bi-3 iFYCeO"
                   >
                     <div
-                      className="Stack__StyledStack-sc-1t576ow-0 ktahqs"
+                      className="Stack__StyledStack-sc-1t576ow-0 bNzzml"
                     >
                       <img
                         alt="Preview of card help in Tooltip component"

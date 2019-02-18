@@ -263,16 +263,22 @@ exports[`Default Stack should match snapshot 1`] = `
 }
 
 <Stack__StyledStack
-  align="start"
   dataTest="test"
-  direction="column"
   flex={false}
-  grow={true}
-  inline={false}
-  justify="start"
-  shrink={false}
-  spaceAfter="large"
-  spacing="extraLoose"
+  smallMobile={
+    Object {
+      "align": "start",
+      "basis": undefined,
+      "direction": "column",
+      "grow": true,
+      "inline": false,
+      "justify": "start",
+      "shrink": false,
+      "spaceAfter": "large",
+      "spacing": "extraLoose",
+      "wrap": false,
+    }
+  }
   theme={
     Object {
       "orbit": Object {
@@ -708,12 +714,9 @@ exports[`Default Stack should match snapshot 1`] = `
       "rtl": false,
     }
   }
-  wrap={false}
 >
   <StyledComponent
-    align="start"
     dataTest="test"
-    direction="column"
     flex={false}
     forwardedComponent={
       Object {
@@ -722,29 +725,9 @@ exports[`Default Stack should match snapshot 1`] = `
         "componentStyle": ComponentStyle {
           "componentId": "Stack__StyledStack-sc-1t576ow-0",
           "isStatic": false,
-          "lastClassName": "bpOViJ",
+          "lastClassName": "jfoJix",
           "rules": Array [
-            "width:",
             [Function],
-            ";",
-            [Function],
-            ";",
-            [Function],
-            ";margin-bottom:",
-            [Function],
-            ";",
-            "@media ",
-            "(min-width: 1200px)",
-            "{",
-            [Function],
-            ";",
-            [Function],
-            ";width:",
-            [Function],
-            ";",
-            [Function],
-            ";",
-            ";}",
             ";",
           ],
         },
@@ -1195,12 +1178,20 @@ exports[`Default Stack should match snapshot 1`] = `
       }
     }
     forwardedRef={null}
-    grow={true}
-    inline={false}
-    justify="start"
-    shrink={false}
-    spaceAfter="large"
-    spacing="extraLoose"
+    smallMobile={
+      Object {
+        "align": "start",
+        "basis": undefined,
+        "direction": "column",
+        "grow": true,
+        "inline": false,
+        "justify": "start",
+        "shrink": false,
+        "spaceAfter": "large",
+        "spacing": "extraLoose",
+        "wrap": false,
+      }
+    }
     theme={
       Object {
         "orbit": Object {
@@ -1636,20 +1627,25 @@ exports[`Default Stack should match snapshot 1`] = `
         "rtl": false,
       }
     }
-    wrap={false}
   >
     <Component
-      align="start"
       className="c0"
       dataTest="test"
-      direction="column"
       flex={false}
-      grow={true}
-      inline={false}
-      justify="start"
-      shrink={false}
-      spaceAfter="large"
-      spacing="extraLoose"
+      smallMobile={
+        Object {
+          "align": "start",
+          "basis": undefined,
+          "direction": "column",
+          "grow": true,
+          "inline": false,
+          "justify": "start",
+          "shrink": false,
+          "spaceAfter": "large",
+          "spacing": "extraLoose",
+          "wrap": false,
+        }
+      }
       theme={
         Object {
           "orbit": Object {
@@ -2085,7 +2081,6 @@ exports[`Default Stack should match snapshot 1`] = `
           "rtl": false,
         }
       }
-      wrap={false}
     >
       <div
         className="c0"
@@ -15650,7 +15645,6 @@ exports[`Default Stack should match snapshot 1`] = `
 
 exports[`Stack with enabled flex should match snapshot 1`] = `
 .c0 {
-  width: 100%;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -15682,6 +15676,7 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
+  width: 100%;
   margin-bottom: 24px;
 }
 
@@ -15937,7 +15932,6 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
 
 @media (min-width:1200px) {
   .c0 {
-    margin-bottom: 8px;
     display: -webkit-inline-box;
     display: -webkit-inline-flex;
     display: -ms-inline-flexbox;
@@ -15969,6 +15963,7 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
     -webkit-box-align: flex-start;
     -ms-flex-align: flex-start;
     align-items: flex-start;
+    margin-bottom: 8px;
   }
 
   .c0 > * {
@@ -16003,8 +15998,6 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
   wrap={false}
 >
   <Stack__StyledStack
-    align="center"
-    basis="550px"
     desktop={
       Object {
         "align": "start",
@@ -16019,14 +16012,21 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
         "wrap": true,
       }
     }
-    direction="row"
     flex={true}
-    grow={false}
-    inline={false}
-    justify="center"
-    shrink={true}
-    spaceAfter="large"
-    spacing="natural"
+    smallMobile={
+      Object {
+        "align": "center",
+        "basis": "550px",
+        "direction": "row",
+        "grow": false,
+        "inline": false,
+        "justify": "center",
+        "shrink": true,
+        "spaceAfter": "large",
+        "spacing": "natural",
+        "wrap": false,
+      }
+    }
     theme={
       Object {
         "orbit": Object {
@@ -16462,11 +16462,8 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
         "rtl": false,
       }
     }
-    wrap={false}
   >
     <StyledComponent
-      align="center"
-      basis="550px"
       desktop={
         Object {
           "align": "start",
@@ -16481,7 +16478,6 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
           "wrap": true,
         }
       }
-      direction="row"
       flex={true}
       forwardedComponent={
         Object {
@@ -16490,29 +16486,9 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
           "componentStyle": ComponentStyle {
             "componentId": "Stack__StyledStack-sc-1t576ow-0",
             "isStatic": false,
-            "lastClassName": "bpOViJ",
+            "lastClassName": "jfoJix",
             "rules": Array [
-              "width:",
               [Function],
-              ";",
-              [Function],
-              ";",
-              [Function],
-              ";margin-bottom:",
-              [Function],
-              ";",
-              "@media ",
-              "(min-width: 1200px)",
-              "{",
-              [Function],
-              ";",
-              [Function],
-              ";width:",
-              [Function],
-              ";",
-              [Function],
-              ";",
-              ";}",
               ";",
             ],
           },
@@ -16963,12 +16939,20 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
         }
       }
       forwardedRef={null}
-      grow={false}
-      inline={false}
-      justify="center"
-      shrink={true}
-      spaceAfter="large"
-      spacing="natural"
+      smallMobile={
+        Object {
+          "align": "center",
+          "basis": "550px",
+          "direction": "row",
+          "grow": false,
+          "inline": false,
+          "justify": "center",
+          "shrink": true,
+          "spaceAfter": "large",
+          "spacing": "natural",
+          "wrap": false,
+        }
+      }
       theme={
         Object {
           "orbit": Object {
@@ -17404,11 +17388,8 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
           "rtl": false,
         }
       }
-      wrap={false}
     >
       <Component
-        align="center"
-        basis="550px"
         className="c0"
         desktop={
           Object {
@@ -17424,14 +17405,21 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
             "wrap": true,
           }
         }
-        direction="row"
         flex={true}
-        grow={false}
-        inline={false}
-        justify="center"
-        shrink={true}
-        spaceAfter="large"
-        spacing="natural"
+        smallMobile={
+          Object {
+            "align": "center",
+            "basis": "550px",
+            "direction": "row",
+            "grow": false,
+            "inline": false,
+            "justify": "center",
+            "shrink": true,
+            "spaceAfter": "large",
+            "spacing": "natural",
+            "wrap": false,
+          }
+        }
         theme={
           Object {
             "orbit": Object {
@@ -17867,7 +17855,6 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
             "rtl": false,
           }
         }
-        wrap={false}
       >
         <div
           className="c0"
@@ -31432,7 +31419,6 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
 
 exports[`Stack with flex prop should match snapshot 1`] = `
 .c0 {
-  width: 100%;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -31461,6 +31447,7 @@ exports[`Stack with flex prop should match snapshot 1`] = `
   -webkit-box-align: flex-start;
   -ms-flex-align: flex-start;
   align-items: flex-start;
+  width: 100%;
 }
 
 .c0 > * {
@@ -31720,14 +31707,21 @@ exports[`Stack with flex prop should match snapshot 1`] = `
 }
 
 <Stack__StyledStack
-  align="start"
-  direction="row"
   flex={true}
-  grow={true}
-  inline={false}
-  justify="start"
-  shrink={false}
-  spacing="natural"
+  smallMobile={
+    Object {
+      "align": "start",
+      "basis": undefined,
+      "direction": "row",
+      "grow": true,
+      "inline": false,
+      "justify": "start",
+      "shrink": false,
+      "spaceAfter": undefined,
+      "spacing": "natural",
+      "wrap": false,
+    }
+  }
   theme={
     Object {
       "orbit": Object {
@@ -32163,11 +32157,8 @@ exports[`Stack with flex prop should match snapshot 1`] = `
       "rtl": false,
     }
   }
-  wrap={false}
 >
   <StyledComponent
-    align="start"
-    direction="row"
     flex={true}
     forwardedComponent={
       Object {
@@ -32176,29 +32167,9 @@ exports[`Stack with flex prop should match snapshot 1`] = `
         "componentStyle": ComponentStyle {
           "componentId": "Stack__StyledStack-sc-1t576ow-0",
           "isStatic": false,
-          "lastClassName": "bpOViJ",
+          "lastClassName": "jfoJix",
           "rules": Array [
-            "width:",
             [Function],
-            ";",
-            [Function],
-            ";",
-            [Function],
-            ";margin-bottom:",
-            [Function],
-            ";",
-            "@media ",
-            "(min-width: 1200px)",
-            "{",
-            [Function],
-            ";",
-            [Function],
-            ";width:",
-            [Function],
-            ";",
-            [Function],
-            ";",
-            ";}",
             ";",
           ],
         },
@@ -32649,11 +32620,20 @@ exports[`Stack with flex prop should match snapshot 1`] = `
       }
     }
     forwardedRef={null}
-    grow={true}
-    inline={false}
-    justify="start"
-    shrink={false}
-    spacing="natural"
+    smallMobile={
+      Object {
+        "align": "start",
+        "basis": undefined,
+        "direction": "row",
+        "grow": true,
+        "inline": false,
+        "justify": "start",
+        "shrink": false,
+        "spaceAfter": undefined,
+        "spacing": "natural",
+        "wrap": false,
+      }
+    }
     theme={
       Object {
         "orbit": Object {
@@ -33089,18 +33069,24 @@ exports[`Stack with flex prop should match snapshot 1`] = `
         "rtl": false,
       }
     }
-    wrap={false}
   >
     <Component
-      align="start"
       className="c0"
-      direction="row"
       flex={true}
-      grow={true}
-      inline={false}
-      justify="start"
-      shrink={false}
-      spacing="natural"
+      smallMobile={
+        Object {
+          "align": "start",
+          "basis": undefined,
+          "direction": "row",
+          "grow": true,
+          "inline": false,
+          "justify": "start",
+          "shrink": false,
+          "spaceAfter": undefined,
+          "spacing": "natural",
+          "wrap": false,
+        }
+      }
       theme={
         Object {
           "orbit": Object {
@@ -33536,7 +33522,6 @@ exports[`Stack with flex prop should match snapshot 1`] = `
           "rtl": false,
         }
       }
-      wrap={false}
     >
       <div
         className="c0"
